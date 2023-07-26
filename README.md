@@ -7,11 +7,9 @@ Authors: Sham Al-Jalam, Mohammed Attallah
 ### URLs
 deployed application : [https://zzg6rnvpf4.execute-api.us-east-1.amazonaws.com/people](https://zzg6rnvpf4.execute-api.us-east-1.amazonaws.com/people)
 
-pull request: []()
+pull request: [https://github.com/ShamAhmad2022/serverless-api/pull/1](https://github.com/ShamAhmad2022/serverless-api/pull/1)
 
-
-[URL main: https://zzg6rnvpf4.execute-api.us-east-1.amazonaws.com/people](https://zzg6rnvpf4.execute-api.us-east-1.amazonaws.com/people )
-
+### get start
 methode: **/GET**
 routes: /people
 respons data : 
